@@ -1,0 +1,16 @@
+{
+    "addToCart": "/html/body/main/section/div/div/section/div[1]/div[2]/div[2]/div[2]/form/div[2]/div[3]/button",
+    "signIn": "a[href='#checkout-login-form']",
+    "inputEmail": "/html/body/main/section/div/div/section/div/div[1]/section[1]/div/div/div[2]/form/section/div[1]/div/input",
+    "inputPassword": "/html/body/main/section/div/div/section/div/div[1]/section[1]/div/div/div[2]/form/section/div[2]/div/div/input",
+    "signInButton": "/html/body/main/section/div/div/section/div/div[1]/section[1]/div/div/div[2]/form/footer/button",
+    "promoCode": "a[href='#promo-code']",
+    "promoCodeInput": "/html/body/main/section/div/div/section/div/div[2]/section/div[2]/div/div/form/input[3]",
+    "promoCodeSubmit": "/html/body/main/section/div/div/section/div/div[2]/section/div[2]/div/div/form/button",
+    "confirmAddress": "/html/body/main/section/div/div/section/div/div[1]/section[2]/div/div/form/div[2]/button",
+    "paymentOptionOne": "#payment-option-1",
+    "termsOfService": "//*[@id=\"conditions_to_approve[terms-and-conditions]\"]",
+    "submitOrder": "/html/body/main/section/div/div/section/div/div[1]/section[3]/div/div[2]/div[1]/button",
+    "orderDetails": "/html/body/main/section/div/div/section/section/table/tbody/tr[1]/td[6]/a[1]",
+    "key": "//*[@id=\"order-detail-content\"]/table/tbody/tr/td/p[2]"
+}
